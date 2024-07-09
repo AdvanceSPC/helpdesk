@@ -21,7 +21,7 @@
           </div>
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
-              <li class="breadcrumb-item"><a href="../home/index.php">Home</a></li>
+              <li class="breadcrumb-item"><a href="../home/index.php">Inicio</a></li>
               <li class="breadcrumb-item active">Incidencia</li>
             </ol>
           </div>
