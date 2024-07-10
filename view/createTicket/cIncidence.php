@@ -180,7 +180,7 @@ $(function () {
         alert('Error al registrar el ticket: '+ responseData.message);
       }
     } catch (error) {
-      console.error('Error:', error);
+      console.error('Error:');
       alert('Error al registrar el ticket');
     }
   });
