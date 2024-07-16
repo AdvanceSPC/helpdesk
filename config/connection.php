@@ -20,7 +20,7 @@
         }
 
         public static function ruta(){
-            return "http://localhost:3000/";
+            return "http://ec2-34-228-83-52.compute-1.amazonaws.com/";
         }
     }
 
